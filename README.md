@@ -1,6 +1,6 @@
 # Todo List App — Agentic Coding Example
 
-This repository is an **assignment** designed to showcase the capabilities of open-source coding models. The goal is to implement a full-stack todo list application from scratch, following the specification below.
+This repository is an **assignment** designed to showcase the capabilities of coding agents. The goal is to implement a full-stack todo list application from scratch, following the specification below.
 
 ## Architecture
 
